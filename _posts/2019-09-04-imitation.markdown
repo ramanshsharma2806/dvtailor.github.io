@@ -9,6 +9,7 @@ authors: "<strong>Dharmesh Tailor</strong>, Dario Izzo"
 venue: "Astrodynamics (Springer)"
 paper: https://link.springer.com/article/10.1007/s42064-019-0054-0
 code: https://github.com/dvtailor/dnn-control
+arxiv: https://arxiv.org/abs/1901.02369
 ---
 
 A deep neural network is trained to approximate the optimal state-feedback in a deterministic and continuous-time setting from solutions of a trajectory optimiser.
