@@ -1,6 +1,6 @@
 # My academic website
 
-This is forked from [here](https://github.com/leonidk/new_website) with mostly only content changes.
+This is forked from [here](https://github.com/dvtailor/dvtailor.github.io) with mostly only content changes.
 
 To host locally, run `jekyll serve --incremental`
 
