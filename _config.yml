@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Dharmesh Tailor
+name: Ramansh Sharma
 
 # Short bio or description (displayed in the header)
 # description: the profile of an engineer, researcher and software developer
@@ -18,10 +18,10 @@ avatar: images/portrait.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: dharmesh.tailor@live.co.uk
+  email: sharmar@bxscience.edu
   facebook:
   flickr:
-  github: dvtailor
+  github: ramanshsharma2806
   instagram:
   linkedin:
   pinterest:
@@ -37,12 +37,12 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-172918992-1
+google_analytics: UA-154633056-2
 # excerpt_separator: <!--more-->
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "https://dvtailor.github.io" # the base hostname & protocol for your site
+url: "https://ramanshsharma2806.github.io" # the base hostname & protocol for your site
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

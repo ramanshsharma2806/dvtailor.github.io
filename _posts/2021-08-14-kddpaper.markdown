@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Beyond modeling: NLP Pipeline for efficient environmental policy analysis"
+date:   2021-08-14 23:59:59 +00:00
+image: /images/kddpaper.png
+categories: research
+author: "Ramansh Sharma"
+authors: "Jordi Planas, Daniel Firebanks-Quevedo, Galina Naydenova, <strong>Ramansh Sharma</strong>, Cristina Taylor, Kathleen Buckingham, Rong Fang"
+venue: "Fragile Earth proceedings - KDD 2021"
+paper: /docs/kddpaper.pdf
+code: https://github.com/wri-dssg-omdena/policy-data-analyzer
+arxiv: https://arxiv.org/abs/2201.07105
+video: https://youtu.be/GfDwWJLSoFo
+---
+
+In this paper we propose a Knowledge Management Framework based on NLP techniques that would tackle challenges of resource-intensive nature, lack of comprehensive central information sources, and overlapping jurisdictions in policy analysis. The framework is designed to be platform-, language- and policy-agnostic. To classify financial incentives in restoration policies, both Sentence-BERT and Cross-Encoders performed well. For sentence classification inference with Sentence-BERT, a random forest classifier can be used to assign a category to a given sentence using the learned embeddings from the SBERT model.
