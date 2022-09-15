@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Accelerated Training of Physics Informed Neural Networks (PINNs) using Meshless Discretizations"
+date:   2022-09-15 01:59:59 +00:00
+image: /images/dtpinn.png
+categories: research
+author: "Ramansh Sharma"
+authors: "<strong>Ramansh Sharma</strong>, Varun Shankar"
+venue: "Neural Information Processing Systems (NeurIPS)"
+paper: /docs/dtpinn.pdf
+code: https://github.com/ramanshsharma2806/dt-pinn
+arxiv: https://arxiv.org/abs/2205.09332
+---
+
+We present a new technique for the accelerated training of physics-informed neural networks (PINNs): discretely-trained PINNs (DT-PINNs). DT-PINNs are trained by replacing exact spatial derivatives with high-order accurate numerical discretizations computed using meshless radial basis function-finite differences (RBF-FD) and applied via sparse-matrix vector multiplication. Additionally, though traditional PINNs (vanilla-PINNs) are typically stored and trained in 32-bit floating-point (fp32) on the GPU, we show that for DT-PINNs, using fp64 on the GPU leads to significantly faster training times than fp32 vanilla-PINNs with comparable accuracy. Our results show that fp64 DT-PINNs offer a superior cost-accuracy profile to fp32 vanilla-PINNs.

@@ -6,7 +6,7 @@ image: /images/kddpaper.png
 categories: research
 author: "Ramansh Sharma"
 authors: "Jordi Planas, Daniel Firebanks-Quevedo, Galina Naydenova, <strong>Ramansh Sharma</strong>, Cristina Taylor, Kathleen Buckingham, Rong Fang"
-venue: "Fragile Earth proceedings - KDD 2021"
+venue: "Fragile Earth proceedings - KDD"
 paper: /docs/kddpaper.pdf
 code: https://github.com/wri-dssg-omdena/policy-data-analyzer
 arxiv: https://arxiv.org/abs/2201.07105
