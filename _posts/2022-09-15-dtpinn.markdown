@@ -10,6 +10,7 @@ venue: "Neural Information Processing Systems (NeurIPS)"
 paper: /docs/dtpinn.pdf
 code: https://github.com/ramanshsharma2806/dt-pinn
 video: https://bit.ly/dtpinn_neurips_talk
+poster: https://neurips.cc/virtual/2022/poster/53689
 arxiv: https://arxiv.org/abs/2205.09332
 ---
 
