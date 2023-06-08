@@ -21,7 +21,7 @@ footer-links:
   email: sharmar@bxscience.edu
   facebook:
   flickr:
-  github: ramanshsharma2806
+  github: rsmath
   instagram:
   linkedin:
   pinterest:
@@ -42,7 +42,7 @@ google_analytics: UA-154633056-2
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "https://ramanshsharma2806.github.io" # the base hostname & protocol for your site
+url: "https://rsmath.github.io" # the base hostname & protocol for your site
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

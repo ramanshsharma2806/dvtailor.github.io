@@ -8,7 +8,7 @@ author: "Ramansh Sharma"
 authors: "<strong>Ramansh Sharma</strong>, Varun Shankar"
 venue: "Neural Information Processing Systems (NeurIPS)"
 paper: /docs/dtpinn.pdf
-code: https://github.com/ramanshsharma2806/dt-pinn
+code: https://github.com/rsmath/dt-pinn
 video: https://bit.ly/dtpinn_neurips_talk
 poster: https://neurips.cc/virtual/2022/poster/53689
 arxiv: https://arxiv.org/abs/2205.09332
