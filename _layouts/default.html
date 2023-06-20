@@ -91,11 +91,7 @@
               <p>
                   <strong>February 2021 - September 2021</strong>: Machine Learning Engineer at the World Resources Institute working on identifying economic and financial incentives for forest and landscape restoration using NLP.</p>
               <p>
-              <!-- <p> -->
-              <!--     <strong>January 2021 - September 2021</strong>: Worked at Omdena as a Software Engineer and Platform Engineer managing and optimizing their Airtable -->
-              <!--     database, making a community engagement measuring tool, and creating and launching <a -->
-              <!--     href="https://omdenaai.github.io/">OmdenaLore</a>, a first of its kind AI-4-good library made for data scientists.</p> -->
-              <!-- <p> -->
+              <p>
                   <strong>October 2020 - December 2020</strong>: Data Scientist at SevaExchange working on recommender systems to connect volunteers with
                   volunteer opportunities.
               </p>
@@ -163,6 +159,17 @@
           {% endfor %}
           {% endfor %}
         </table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Mentoring</h2>
+              <p>
+              I frequently mentor undergraduate and high school students who wish to pursue a career in Machine Learning. If you think my academic and professional experiences so far can help you in any way, please send me an email.
+              </p>
+            </td>         
+          </tr>
+        </table>
         
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
@@ -188,17 +195,17 @@
               a technical workshop at SRM IST in 2020 for Microsoft Student Partner Open Day on introduction to neural networks and machine learning.</li>
               </ol>
               </p>
-              <br>
-              <ul>
-                  {% for post in site.posts %}
-                  {% for cat in post.categories %}
-                  {% if cat == 'notes' %}
-                  <li><a href="{{post.link}}">{{post.title}}</a> <em>({{ post.date | date: "%b %Y" }})</em></li>
-                  {% endif %}
-                  {% endfor %}
-                  {% endfor %}
-              </ul>
-            </td>         
+              <!-- <br> -->
+              <!-- <ul> -->
+              <!--     {% for post in site.posts %} -->
+              <!--     {% for cat in post.categories %} -->
+              <!--     {% if cat == 'notes' %} -->
+              <!--     <li><a href="{{post.link}}">{{post.title}}</a> <em>({{ post.date | date: "%b %Y" }})</em></li> -->
+              <!--     {% endif %} -->
+              <!--     {% endfor %} -->
+              <!--     {% endfor %} -->
+              <!-- </ul> -->
+            <!-- </td> -->         
           </tr>
         </table>
 
